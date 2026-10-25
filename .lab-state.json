@@ -15,5 +15,8 @@
   "testEnvId": "050d9e88-4e37-eb80-9977-040cc96fe715",
   "testOrgId": "0a5f4766-96d0-f111-be87-000d3a5cb40b",
   "testProfile": "test",
-  "appId": "6ea3f440-b728-4aff-858d-093419f92c81"
+  "appId": "6ea3f440-b728-4aff-858d-093419f92c81",
+  "packageDeployerScaffolded": true,
+  "dataModelScaffolded": true,
+  "columnsScaffolded": true
 }
