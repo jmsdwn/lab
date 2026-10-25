@@ -31,5 +31,6 @@
   "ribbonScaffolded": true,
   "gridControlScaffolded": true,
   "productTableScaffolded": true,
-  "productTableDeployed": true
+  "productTableDeployed": true,
+  "connectorScaffolded": true
 }
